@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:lab6/screens/authenticate/authenticate.dart';
-import '../models/user.dart';
 import '../services/auth.dart';
 import 'home/home.dart';
 

@@ -5,7 +5,6 @@ import 'package:lab6/screens/home/home.dart';
 import 'package:lab6/screens/wrapper.dart';
 import 'package:lab6/services/auth.dart';
 import 'package:provider/provider.dart';
-import 'models/user.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

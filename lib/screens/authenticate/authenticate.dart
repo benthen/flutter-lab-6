@@ -3,7 +3,6 @@ import 'package:lab6/screens/authenticate/register.dart';
 import 'package:lab6/screens/authenticate/sign_in.dart';
 import 'package:lab6/services/auth.dart';
 import 'package:provider/provider.dart';
-import '../../models/user.dart';
 import '../home/home.dart';
 
 class Authenticate extends StatefulWidget {
